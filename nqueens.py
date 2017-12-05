@@ -1,4 +1,4 @@
-"""The n queens puzzle"""
+"""The n queens puzzle."""
 class NQueens:
     """Generate all valid solutions for the n queens puzzle"""
     def __init__(self, size):
