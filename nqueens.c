@@ -4,7 +4,7 @@
 #include <stdbool.h>
 #include <stdlib.h>
 
-// Store the puzzle (problem) size and the number of valid solutions
+// Store the puzzle (problem) size and the number of valid solutions.
 typedef struct {
     int size;
     int solutions;
