@@ -1,4 +1,4 @@
-// The n queens puzzle
+// The n queens puzzle.
 #include <stdio.h>
 #include <string.h>
 #include <stdbool.h>
