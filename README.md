@@ -12,4 +12,5 @@ You could use this program under the terms of GPL v3, for more details see:
 
 https://www.gnu.org/copyleft/gpl.html
 
-Copyright 2017 Sol from https://solarianprogrammer.c
+Copyright 2017 Sol from https://solarianprogrammer.com
+
