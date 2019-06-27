@@ -68,7 +68,7 @@ void put_queen(NQueens *nqueens, int *positions, int target_row) {
 
 // Solve the n queens puzzle and print the number of solutions
 void solve(NQueens *nqueens) {
-    int *positions = malloc(nqueens->size * sizeof(int));
+    int *positions = (int*)malloc(nqueens->size * sizeof(int));
     memset(positions, ~0, nqueens->size * sizeof(int));
     put_queen(nqueens, positions, 0);
     printf("Found %d solutions\n", nqueens->solutions);
